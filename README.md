@@ -1,2 +1,1 @@
-# my.repo
-esto es de prueba xd
+# esto es un repositorio de prueba :)
